@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		ABB41300293912E7006DF1B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABB412FF293912E7006DF1B6 /* AppDelegate.swift */; };
 		ABB41302293912E7006DF1B6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABB41301293912E7006DF1B6 /* SceneDelegate.swift */; };
-		ABB41304293912E7006DF1B6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABB41303293912E7006DF1B6 /* ViewController.swift */; };
+		ABB41304293912E7006DF1B6 /* FormViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABB41303293912E7006DF1B6 /* FormViewController.swift */; };
 		ABB41307293912E7006DF1B6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABB41305293912E7006DF1B6 /* Main.storyboard */; };
 		ABB41309293912EC006DF1B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABB41308293912EC006DF1B6 /* Assets.xcassets */; };
 		ABB4130C293912EC006DF1B6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABB4130A293912EC006DF1B6 /* LaunchScreen.storyboard */; };
@@ -19,7 +19,7 @@
 		ABB412FC293912E7006DF1B6 /* Clase7_2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Clase7_2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABB412FF293912E7006DF1B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ABB41301293912E7006DF1B6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		ABB41303293912E7006DF1B6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		ABB41303293912E7006DF1B6 /* FormViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormViewController.swift; sourceTree = "<group>"; };
 		ABB41306293912E7006DF1B6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		ABB41308293912EC006DF1B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ABB4130B293912EC006DF1B6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -58,7 +58,7 @@
 			children = (
 				ABB412FF293912E7006DF1B6 /* AppDelegate.swift */,
 				ABB41301293912E7006DF1B6 /* SceneDelegate.swift */,
-				ABB41303293912E7006DF1B6 /* ViewController.swift */,
+				ABB41303293912E7006DF1B6 /* FormViewController.swift */,
 				ABB41305293912E7006DF1B6 /* Main.storyboard */,
 				ABB41308293912EC006DF1B6 /* Assets.xcassets */,
 				ABB4130A293912EC006DF1B6 /* LaunchScreen.storyboard */,
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ABB41304293912E7006DF1B6 /* ViewController.swift in Sources */,
+				ABB41304293912E7006DF1B6 /* FormViewController.swift in Sources */,
 				ABB41300293912E7006DF1B6 /* AppDelegate.swift in Sources */,
 				ABB41302293912E7006DF1B6 /* SceneDelegate.swift in Sources */,
 			);
